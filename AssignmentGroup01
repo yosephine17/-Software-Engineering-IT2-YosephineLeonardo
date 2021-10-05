@@ -1,0 +1,5 @@
+GG = int(input("Masukin bilangan yang ingin anda ketahui: "))
+if GG % 2 == 0:
+  print("Angka %d adalah bilangan genap."% GG)
+else:
+  print("Angka %d adalah bilangan ganjil."% GG)
